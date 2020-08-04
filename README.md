@@ -1,4 +1,4 @@
-# SemiConductor Solid State Devices
+# Semi-Conductor Solid State Devices
 
 The project displays technical knowledge on the described topic
 
