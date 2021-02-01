@@ -6,4 +6,4 @@ Please click on the following link to download the executable: https://github.co
 
 ![image](FundamentalsSemiConductorDevices.png)
 
-Further knowledge in https://github.com/alpaddesai/DigitalIC_VLSIDesign
+Further knowledge in https://github.com/alpaddesai/SmartGridDesignIdea
