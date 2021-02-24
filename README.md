@@ -9,9 +9,5 @@ Please click on the following link to download the executable: https://github.co
 ## Interest 
 ![image](image5.png)
 
-## Interest
-![image](image1.jpg)
-
-![image](image2.jpg)
 
 Further knowledge in https://github.com/alpaddesai/SmartGridDesignIdea
