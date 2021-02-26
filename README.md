@@ -9,7 +9,7 @@ Please click on the following link to download the executable: https://github.co
 ## MOSFET
 ![image](BasicsMOSFETI.jpg)
 
-![image](BasicsMOSFETII.png)
+![image](BasicMOSFETII.png)
 
 ## Interest 
 ![image](image5.png)
