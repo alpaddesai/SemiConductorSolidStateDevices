@@ -6,9 +6,9 @@ Please click on the following link to download the executable: https://github.co
 
 ![image](FundamentalsSemiConductorDevices.png)
 
-![image](BasicMOSFETI.png)
+![image](BasicsMOSFETI.png)
 
-![image](BasicMOSFETII.png
+![image](BasicsMOSFETII.png
 
 ## Interest 
 ![image](image5.png)
