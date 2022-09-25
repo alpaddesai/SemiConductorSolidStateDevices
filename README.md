@@ -11,4 +11,6 @@ Please click on the following link to download the executable: https://github.co
 
 ![image](BasicsMOSFETII.png)
 
+![image](USCopyrightCertificate.png)
+
 Further knowledge in https://github.com/alpaddesai/MSEE_SmartGridDesignIdea
