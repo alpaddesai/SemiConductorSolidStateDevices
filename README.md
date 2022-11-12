@@ -13,4 +13,6 @@ Please click on the following link to download the executable: https://github.co
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jgp)
+
 Further knowledge in https://github.com/alpaddesai/MSEE_SmartGridDesignIdea
