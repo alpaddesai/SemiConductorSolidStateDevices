@@ -15,4 +15,4 @@ Please click on the following link to download the executable: https://github.co
 
 ![image](Ethics.jpg)
 
-Further knowledge in https://github.com/alpaddesai/VLSI_Design and https://github.com/alpaddesai/DesignEngineering.
+Further knowledge in https://github.com/alpaddesai/DesignEngineering
